@@ -1,4 +1,4 @@
-let role = prompt('+ , - , / , *');
+let role = prompt(' Enter + , - , / or *');
 let x = prompt('x')
 let y = prompt('y')
 

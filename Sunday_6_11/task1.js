@@ -1,5 +1,7 @@
 let x = prompt('enter your birthday month number')
 
+// === compare between value & type 
+// == Compare between value only
 if (x==1){
     console.log('January')
 }
@@ -50,3 +52,4 @@ else if (x==12){
 else{
     console.log('the month is not exist')
 }
+

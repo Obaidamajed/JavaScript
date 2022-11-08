@@ -42,3 +42,6 @@ let name = 'i love java script'
 console.log(name.lastIndexOf('i',14))
 
 
+
+
+

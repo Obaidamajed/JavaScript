@@ -11,16 +11,24 @@ Ex: tellFortune('software engineer', 'Jordan', 'Alice', 3);
 => "You will be a software engineer in Jordan, and married to Alice with 3 kids."
 */
 
-let children = prompt("Enter number of your Children");
-let partnerName = prompt("Enter your partner name");
-let area = prompt("Enter your location");
-let job = prompt("Enter your job");
+// let children = prompt("Enter number of your Children");
+// let partnerName = prompt("Enter your partner name");
+// let area = prompt("Enter your location");
+// let job = prompt("Enter your job");
 
-function tellFortune (numOfChildren , nameOfPartner , geoLocation , jobTitle) {
-    console.log(`You will be ${jobTitle} in ${geoLocation}, and married to ${nameOfPartner} with ${numOfChildren} kids`);
-}
+// function tellFortune (numOfChildren , nameOfPartner , geoLocation , jobTitle) {
+//     console.log(`You will be ${jobTitle} in ${geoLocation}, and married to ${nameOfPartner} with ${numOfChildren} kids`);
+// }
 
-tellFortune(children, partnerName, area, job)
+// tellFortune(children, partnerName, area, job)
+
+// // Or 
+
+// function tellFortune (numOfChildren , nameOfPartner , geoLocation , jobTitle) {
+//   console.log('you will be ' + jobTitle + 'in' + geoLocation + ', and married to ' + nameOfPartner + 'with ' + numOfChildren +' kids');
+// }
+
+// tellFortune( 3 , 'obaida ', ' aqaba', 'programmer ')
 
 // -----------------------------------------------------
 
